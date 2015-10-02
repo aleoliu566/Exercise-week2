@@ -5,10 +5,10 @@ void setup()
 {
   size(640,426);
   background(255);  
-  image0 = loadImage("0.jpg");
-  image1 = loadImage("1.jpg");
-  image2 = loadImage("2.jpg");
-  image3 = loadImage("3.jpg");
+  image0 = loadImage("E3Pic/0.jpg");
+  image1 = loadImage("E3Pic/1.jpg");
+  image2 = loadImage("E3Pic/2.jpg");
+  image3 = loadImage("E3Pic/3.jpg");
 }
 
 void draw()
